@@ -24,3 +24,5 @@ const waitinglistData = [
         uniqueID: '64324'
     },
 ]
+
+module.exports = waitinglistData
