@@ -24,3 +24,5 @@ const tableData = [
         uniqueID: '54324'
     },
 ]
+
+module.exports = tableData
